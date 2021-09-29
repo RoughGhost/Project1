@@ -1,0 +1,18 @@
+@import "variables";
+@import "mixins";
+@import "globals";
+@import "header";
+@import "animations";
+@import "hero";
+
+
+@font-face {
+    font-family: 'BungeeInline-Regular';
+    src: url('Downloads/Learning/Practices/FONTS.eot'), url('Downloads/Learning/Practices/FONTS.ttf') format('truetype'), url('Downloads/Learning/Practices/FONTS.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+   font-family:"BungeeInLine-Regular" ;
+}

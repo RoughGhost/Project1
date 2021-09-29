@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\Downloads\\Learning"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\MAMP\\htdocs\\wordpress\\wp-content\\themes\\twentynineteen"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\MAMP\\htdocs\\php-crash-course-2020"
+		},
+		{
+			"path": "..\\..\\..\\..\\robofriends"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "First Project"
+	}
+}

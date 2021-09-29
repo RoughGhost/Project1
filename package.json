@@ -1,0 +1,11 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass scss:assets/css"
+  },
+  "author": "Stephen Louis",
+  "license": "ISC"
+}
